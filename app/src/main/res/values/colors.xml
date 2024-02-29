@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_snow_white">#FFFAFA</color>
+    <color name="color_textButton">#2682C8</color>
+    <color name="light_blue">#9cbaf9</color>
+    <color name="red">#F42525</color>
+    <color name="cardBackground">#FFF8E1</color>
+    <color name="green">#46BF19</color>
+    <color name="color_very_light_yellow">#FFFF98</color>
+    <color name="color_homepage_background">#6FFFFF98</color>
+</resources>
